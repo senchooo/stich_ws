@@ -1,9 +1,9 @@
 venv/
 env/
---pycache__/
-*pyc
+__pycache__/
+*.pyc
 
-
+.vscode/
 # datasets
 dataset/
 
